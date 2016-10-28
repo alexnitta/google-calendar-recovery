@@ -1,0 +1,3 @@
+*.DS_STORE*
+.~lock.output.csv#
+client_secret.json
